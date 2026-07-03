@@ -22,5 +22,5 @@ I'm a Workforce Management (WFM) Analyst in the BPO industry. Basically, I take 
 ---
 
 ## 📫 Let's Connect
-*   **Email:** [Put your new Gmail address here]
+*   **Email:** [profile.neiljohn@gmail.com]
 *   **LinkedIn:** (Setting this up soon!)
