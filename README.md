@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Neil John Antonio.
 
-<!--
-**profileneiljohn/profileneiljohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WFM Analyst | Data & Automation 
 
-Here are some ideas to get you started:
+I'm a Workforce Management (WFM) Analyst in the BPO industry. Basically, I take messy operational data and turn it into clear dashboards, and I build automations to get rid of boring, repetitive manual work. My main focus is building accurate KPI reports, incentives reports, and helping the operations and departments to track their performance clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools I Use
+
+*   **Making Dashboards:** Power BI, DOMO
+*   **Cleaning & Crunching Data:** Advanced Excel (Power Query, Data Modeling), Basic SQL
+*   **Automating Stuff:** Power Automate, Excel VBA
+*   **Building Custom Apps:** PowerApps
+
+---
+
+## 📈 What I've Built
+
+*(Projects coming soon! I'm currently cleaning up some of my WFM dashboards and automated tools so I can share them here.)*
+
+---
+
+## 📫 Let's Connect
+*   **Email:** [Put your new Gmail address here]
+*   **LinkedIn:** (Setting this up soon!)
